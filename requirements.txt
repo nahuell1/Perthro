@@ -1,0 +1,9 @@
+langchain_core
+langchain_ollama
+ollama
+openmeteo_requests
+PyPDF2
+python-dotenv
+python-telegram-bot
+requests_cache
+retry_requests
